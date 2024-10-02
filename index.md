@@ -1,4 +1,6 @@
 # Welcome to My Portfolio
+![Bisandi Lasanya](bisandi.jpg)
+
 
 Hello, I'm **Bisandi Lasanya**,  student at SLIIT. This is my portfolio, where you’ll find details about my projects, skills, and experience in the field of biotechnology.
 
